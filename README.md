@@ -1,0 +1,2 @@
+# A-reinforced-final-belief-divergence-for-mass-functions-and-its-application-in-target-recognition
+We propose a novel reinforced final belief divergence (RFBD) measure to solve the conflicting problem in mass functions from the perspective of divergence measurement. We combine belief entropy with RFBD and propose a novel multi-sensor data fusion approach, then achieve target recognition in the Iris dataset.
